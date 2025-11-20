@@ -16,7 +16,7 @@ import numpy as np
 from PIL import Image
 import pandas as pd
 from tqdm import tqdm
-import cv2
+import cv2a
 
 from models_n import get_all_model_configs
 from calculate_metrics import calculate_metrics as calc_metrics
